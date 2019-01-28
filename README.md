@@ -1,7 +1,7 @@
 # racegame
 
-FORSßA HORIZION SIMULATER
+FORSẞA HORIZION SIMULATER
 
 
-Only useable under Windows
+Only testet under Windows
 not perfect many Bugs
