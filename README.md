@@ -1,4 +1,4 @@
-# racegame
+# rainbowrunner
 
 FORSẞA HORIZION SIMULATER
 
