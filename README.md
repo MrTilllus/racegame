@@ -1,6 +1,6 @@
 # racegame
 
-FORZA HORIZION SIMULATER
+FORSßA HORIZION SIMULATER
 
 
 Only useable under Windows
